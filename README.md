@@ -1,4 +1,4 @@
-# moe-cluster
+# macos-cuda-cluster
 
 Run **Qwen3.6-35B-A3B (4-bit, ~20 GB)** split across a 16 GB MacBook Pro and a
 gaming laptop with a 4 GB GPU, joined by one Ethernet cable. Neither machine
