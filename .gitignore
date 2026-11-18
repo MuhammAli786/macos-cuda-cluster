@@ -1,0 +1,5 @@
+*.so
+*.log
+__pycache__/
+.expert_pack/
+*.npy

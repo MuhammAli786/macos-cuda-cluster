@@ -1,0 +1,8 @@
+Do all of these, each in its own short section:
+1. Write a Python function that merges overlapping intervals, with a docstring.
+2. Explain how a central bank raising interest rates affects bond prices and mortgages.
+3. Summarize the causes of World War I in five bullet points.
+4. Write a four-line poem about rain on a city street.
+5. Solve: a train leaves at 3:40 pm going 80 km/h; how far has it gone by 6:10 pm? Show the steps.
+6. Give a short SQL query that finds the top 3 customers by total order value.
+7. Describe how mRNA vaccines train the immune system.
